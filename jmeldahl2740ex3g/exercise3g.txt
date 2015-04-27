@@ -1,0 +1,16 @@
+101
+Jess Meldahl
+10.0
+30.0
+102
+David Meldahl
+15.0
+30.0
+103
+Jaime Pederson
+20.0
+40.0
+104
+Tracy Mueller
+25.0
+50.0
